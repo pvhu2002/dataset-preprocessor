@@ -1,0 +1,4 @@
+eprogress
+numpy
+opencv_python
+argparse
